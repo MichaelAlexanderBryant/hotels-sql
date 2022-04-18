@@ -1,6 +1,5 @@
 -- Question 1: Is the revenue for each hotel growing each year?
 -- Question 2: Should the parking lot size be increased?
--- Question 3: What other trends are in the data?
 
 -- Combine all yearly tables and view all columns
 SELECT * FROM dbo.['2018$']
